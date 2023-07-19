@@ -1,16 +1,4 @@
-# himti_flutter_workshop
+![image](https://github.com/jonathandarwin/himti-flutter-workshop/assets/48744669/0bb6fa9d-c0ee-4a93-a7dd-120cf6b02c40)
 
-A new Flutter project.
+![image](https://github.com/jonathandarwin/himti-flutter-workshop/assets/48744669/a0ccbd69-1da9-4f04-811d-f41ebeaef42b)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
